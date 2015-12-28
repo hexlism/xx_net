@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 XX-Net - A Rebirth of Goagent
@@ -81,3 +82,6 @@ https://github.com/XX-net/XX-Net/wiki/How-to-contribute
   为XX-Net和Lantern定制的便携浏览器(A customized portable browser for XX-Net & Lantern) 
   https://github.com/mikedchavez1010/ComodoDragonPortable  
   仅支持Windows，心系安全(Windows-only, focusing on security)
+=======
+# xx_net
+>>>>>>> 4cfc9d13a70e22cbdb519fa231f42e8c523adce0
